@@ -1,5 +1,5 @@
 /venv
 /__pycache__
 *jpg
-/modelos
+/modelos/*.pt
 *db
