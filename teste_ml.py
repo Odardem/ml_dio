@@ -1,4 +1,4 @@
-# Importar as bibliotecas
+# Importar as bibliotecas 
 # Precisamos do streamlit, numpu, PIL e o pytorch
 # Aqui precisamos só carregar o modelo já treinado!
 import streamlit as st
